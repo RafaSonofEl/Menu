@@ -3,12 +3,11 @@
 ## Module Challenge Instructions:
 
 ## 1. Set up order list. Order list will store a list of dictionaries for menu item name, item price, and quantity  ordered.
-  ### - Launch the store and present a greeting to the customer. Customers may want to order multiple items, so       ### let's create a continuous loop.
+  ### - Launch the store and present a greeting to the customer. Customers may want to order multiple items, so let's create a continuous loop.
   ### - Ask the customer from which menu category they want to order.
   ### - Create a variable for the menu item number.
   ### - Create a dictionary to store the menu for later retrieval
-  ### - Print the options to choose from menu headings (all the first level
-    ### dictionary items in menu).
+  ### - Print the options to choose from menu headings (all the first level dictionary items in menu).
   ### - Store the menu category associated with its menu item number
   ### - Add 1 to the menu item number
   ### - Get the customer's input
