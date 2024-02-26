@@ -1,4 +1,4 @@
-## Module 2 Challenge: Restaurant Menu for Dan's Diner ##
+### Module 2 Challenge: Restaurant Menu for Dan's Diner ###
 
 # 1. Set up order list. Order list will store a list of dictionaries for
 # menu item name, item price, and quantity ordered
